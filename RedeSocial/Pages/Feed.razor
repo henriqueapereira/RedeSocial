@@ -1,0 +1,37 @@
+﻿@page "/feed"
+@using RedeSocial.Models
+@layout FeedLayout
+@inject PublicacaoService PublicacaoService
+
+<h3>Publicações</h3>
+
+@if (publicacoes == null)
+{
+    <p>Carregando publicações...</p>
+}
+else if (!publicacoes.Any())
+{
+    <p>Nenhuma publicação encontrada.</p>
+}
+else
+{
+    <ul>
+        @foreach (var publicacao in publicacoes)
+        {
+            <li>
+                <strong>@publicacao.Texto</strong>
+                <p>Publicado por Usuário ID: @publicacao.UsuarioId</p>
+                <p>Visibilidade: @publicacao.Visibilidade</p>
+            </li>
+        }
+    </ul>
+}
+
+@code {
+    private List<Publicacao> publicacoes;
+
+    protected override async Task OnInitializedAsync()
+    {
+        publicacoes = await PublicacaoService.GetPublicacoesAsync();
+    }
+}
