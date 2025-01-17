@@ -86,7 +86,92 @@ Footer[b-4b13lbfu6v] {
         padding-right: 1.5rem !important;
     }
 }
+/* /Layout/LoginLayout.razor.rz.scp.css */
+/* Layout de login com fundo e formul�rio centralizado */
+body[b-nbbzbxqvrg] {
+    background: linear-gradient(to right, #5a2a8b, #d5006d); /* Gradiente suave */
+    height: 100vh;
+    margin: 0;
+}
+
+/* P�gina de login - cont�iner centralizado */
+.login-page[b-nbbzbxqvrg] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.login-card[b-nbbzbxqvrg] {
+    background-color: white;
+    padding: 2rem;
+    margin-top: 3rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+/* Estilo do t�tulo */
+h3[b-nbbzbxqvrg] {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+/* Estilo dos campos de input */
+.form-group[b-nbbzbxqvrg] {
+    margin-bottom: 1.5rem;
+}
+
+.form-control[b-nbbzbxqvrg] {
+    padding: 0.75rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    transition: border-color 0.3s ease;
+}
+
+    .form-control:focus[b-nbbzbxqvrg] {
+        border-color: #5a2a8b;
+        box-shadow: 0 0 5px rgba(90, 42, 139, 0.5);
+    }
+
+/* Bot�o de login */
+.btn[b-nbbzbxqvrg] {
+    padding: 0.75rem;
+    font-size: 1.1rem;
+    border-radius: 4px;
+    background-color: #5a2a8b;
+    color: white;
+    border: none;
+    width: 100%;
+    transition: background-color 0.3s ease;
+    box-sizing: border-box;
+}
+
+.btn:hover[b-nbbzbxqvrg] {
+        background-color: #8c4cc1;
+}
+
+/* Link "Esqueceu a senha?" */
+.text-muted[b-nbbzbxqvrg] {
+    font-size: 0.9rem;
+}
+
+    .text-muted:hover[b-nbbzbxqvrg] {
+        text-decoration: underline;
+    }
+
+/* Responsividade para telas pequenas */
+@media (max-width: 600px) {
+    .login-card[b-nbbzbxqvrg] {
+        padding: 1.5rem;
+        max-width: 90%;
+    }
+}
 /* /Layout/MainLayout.razor.rz.scp.css */
+/* Layout da p�gina */
 .page[b-sgdsa2vcpg] {
     position: relative;
     display: flex;
@@ -97,44 +182,53 @@ main[b-sgdsa2vcpg] {
     flex: 1;
 }
 
+/* Sidebar */
 .sidebar[b-sgdsa2vcpg] {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }
 
+/* Top Row (barra superior com o perfil) */
 .top-row[b-sgdsa2vcpg] {
     background-color: #f7f7f7;
     border-bottom: 1px solid #d6d5d5;
-    justify-content: flex-end;
-    height: 3.5rem;
     display: flex;
+    justify-content: flex-end;
     align-items: center;
+    height: 3.5rem;
+    padding: 0 1.5rem; /* Adiciona espa�amento interno para os itens */
 }
 
-    .top-row[b-sgdsa2vcpg]  a, .top-row[b-sgdsa2vcpg]  .btn-link {
+    /* Estilos de links e bot�es na barra superior */
+    .top-row a[b-sgdsa2vcpg],
+    .top-row .btn-link[b-sgdsa2vcpg] {
         white-space: nowrap;
         margin-left: 1.5rem;
         text-decoration: none;
     }
 
-    .top-row[b-sgdsa2vcpg]  a:hover, .top-row[b-sgdsa2vcpg]  .btn-link:hover {
-        text-decoration: underline;
-    }
+        .top-row a:hover[b-sgdsa2vcpg],
+        .top-row .btn-link:hover[b-sgdsa2vcpg] {
+            text-decoration: underline;
+        }
 
-    .top-row[b-sgdsa2vcpg]  a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
+        .top-row a:first-child[b-sgdsa2vcpg] {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
 
+/* Responsividade para telas pequenas */
 @media (max-width: 640.98px) {
     .top-row[b-sgdsa2vcpg] {
         justify-content: space-between;
     }
 
-    .top-row[b-sgdsa2vcpg]  a, .top-row[b-sgdsa2vcpg]  .btn-link {
-        margin-left: 0;
-    }
+        .top-row a[b-sgdsa2vcpg],
+        .top-row .btn-link[b-sgdsa2vcpg] {
+            margin-left: 0;
+        }
 }
 
+/* Layout para telas m�dias e grandes */
 @media (min-width: 641px) {
     .page[b-sgdsa2vcpg] {
         flex-direction: row;
@@ -153,16 +247,31 @@ main[b-sgdsa2vcpg] {
         z-index: 1;
     }
 
-    .top-row.auth[b-sgdsa2vcpg]  a:first-child {
-        flex: 1;
-        text-align: right;
-        width: 0;
-    }
-
-    .top-row[b-sgdsa2vcpg], article[b-sgdsa2vcpg] {
+    /* Ajusta o padding no conte�do para telas maiores */
+    .top-row[b-sgdsa2vcpg],
+    article[b-sgdsa2vcpg] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
+}
+
+/* Estilos para a imagem de perfil */
+.profile-img[b-sgdsa2vcpg] {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%; /* Torna a imagem redonda */
+    object-fit: cover; /* Garante que a imagem se ajuste bem ao tamanho */
+}
+
+/* Adicionando espa�amento no bot�o de perfil */
+.top-row .dropdown-toggle[b-sgdsa2vcpg] {
+    padding: 0.5rem 1rem;
+    margin-left: 1rem; /* Espa�amento entre o �cone de perfil e o lado esquerdo */
+}
+
+/* Ajuste de estilo para o menu de dropdown */
+.dropdown-menu[b-sgdsa2vcpg] {
+    min-width: 150px; /* Define uma largura m�nima para o menu */
 }
 /* /Layout/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-no45vl3liq] {

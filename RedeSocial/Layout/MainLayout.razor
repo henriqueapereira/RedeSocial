@@ -1,4 +1,5 @@
 ﻿@inherits LayoutComponentBase
+
 <div class="page">
     <div class="sidebar">
         <NavMenu />
@@ -6,7 +7,26 @@
 
     <main>
         <div class="top-row px-4">
-            <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
+            <!-- Ícone de perfil e menu suspenso -->
+            <div class="dropdown">
+                <button class="btn btn-link dropdown-toggle" type="button" id="userDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                    <!-- Foto de perfil, com fallback para um ícone -->
+                    @if (string.IsNullOrEmpty(UserProfileImage) || !Uri.IsWellFormedUriString(UserProfileImage, UriKind.Absolute))
+                    {
+                        <i class="bi bi-person-circle" style="font-size: 2rem; color: #333;"></i> <!-- Ícone de perfil -->
+                    }
+                    else
+                    {
+                        <img src="@UserProfileImage" alt="Perfil" class="profile-img" /> <!-- Imagem de perfil -->
+                    }
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="userDropdown">
+                    <li><a class="dropdown-item" href="#">Ir para o Perfil</a></li>
+                    <li><a class="dropdown-item" href="#">Configurações de Conta</a></li>
+                    <li><hr class="dropdown-divider" /></li>
+                    <li><a class="dropdown-item" href="#" @onclick="Logout">Sair</a></li>
+                </ul>
+            </div>
         </div>
 
         <article class="content px-4">
@@ -14,3 +34,15 @@
         </article>
     </main>
 </div>
+
+@code {
+    // Caminho da imagem de perfil do usuário
+    private string UserProfileImage = "/images/default-profile.jpg"; // Caminho para a imagem de perfil
+
+    private void Logout()
+    {
+        // Lógica de logout (por enquanto apenas simula a ação)
+        Console.WriteLine("Logout executado!");
+        // Redirecionar para a página de login, por exemplo
+    }
+}
