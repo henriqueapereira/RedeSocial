@@ -1,4 +1,5 @@
 ﻿@inherits LayoutComponentBase
+@inject NavigationManager Navigation
 
 <div class="page">
     <div class="sidebar">
@@ -10,14 +11,24 @@
             <!-- Ícone de perfil e menu suspenso -->
             <div class="dropdown">
                 <button class="btn btn-link dropdown-toggle" type="button" id="userDropdown" data-bs-toggle="dropdown" aria-expanded="false">
-                    <!-- Foto de perfil, com fallback para um ícone -->
-                    @if (string.IsNullOrEmpty(UserProfileImage) || !Uri.IsWellFormedUriString(UserProfileImage, UriKind.Absolute))
+                    <!-- Mostrar a imagem do perfil ou um ícone padrão -->
+                    @if (IsUserLoggedIn)
                     {
-                        <i class="bi bi-person-circle" style="font-size: 2rem; color: #333;"></i> <!-- Ícone de perfil -->
+                        @if (string.IsNullOrEmpty(UserProfileImage) || !Uri.IsWellFormedUriString(UserProfileImage, UriKind.Absolute))
+                        {
+                            <!-- Exibe imagem padrão (ícone ou imagem) -->
+                            <img src="images/default-profile.jpg" alt="Imagem de Perfil" class="profile-img" />
+                        }
+                        else
+                        {
+                            <!-- Exibe imagem de perfil do usuário -->
+                            <img src="@UserProfileImage" alt="Imagem de Perfil" class="profile-img" />
+                        }
                     }
                     else
                     {
-                        <img src="@UserProfileImage" alt="Perfil" class="profile-img" /> <!-- Imagem de perfil -->
+                        <!-- Exibe ícone padrão de perfil, caso o usuário não esteja logado -->
+                        <i class="bi bi-person-circle" style="font-size: 2rem; color: #333;"></i>
                     }
                 </button>
                 <ul class="dropdown-menu" aria-labelledby="userDropdown">
@@ -36,13 +47,26 @@
 </div>
 
 @code {
-    // Caminho da imagem de perfil do usuário
-    private string UserProfileImage = "/images/default-profile.jpg"; // Caminho para a imagem de perfil
+    // Simulação do estado de login
+    private bool IsUserLoggedIn = true; // Defina como "false" se o usuário não estiver logado
+    private string UserProfileImage = "images/user-profile.jpg"; // Caminho da imagem de perfil do usuário (pode ser vazio ou nulo)
+    private string DefaultProfileImage = "images/default-profile.jpg";
+
+    // Redireciona para a página de login caso o usuário não esteja logado
+    protected override async Task OnInitializedAsync()
+    {
+        if (!IsUserLoggedIn)
+        {
+            Navigation.NavigateTo("/login"); // Redireciona para a página de login
+        }
+    }
 
     private void Logout()
     {
-        // Lógica de logout (por enquanto apenas simula a ação)
+        // Lógica de logout, como limpar dados de autenticação
+        IsUserLoggedIn = false;
+        UserProfileImage = null; // Limpa a imagem ao fazer logout
         Console.WriteLine("Logout executado!");
-        // Redirecionar para a página de login, por exemplo
+        // Navigation.NavigateTo("/login");
     }
 }

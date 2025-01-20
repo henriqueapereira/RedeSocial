@@ -1,3 +1,81 @@
+/* /Layout/CadastroUsuarioLayout.razor.rz.scp.css */
+/* Estilos gerais do layout de cadastro */
+.cadastro-container[b-wyny4dmi5f] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.cadastro-content[b-wyny4dmi5f] {
+    background-color: white;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+}
+
+h3[b-wyny4dmi5f] {
+    color: #2d2d2d;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.form-group[b-wyny4dmi5f] {
+    margin-bottom: 1rem;
+}
+
+label[b-wyny4dmi5f] {
+    font-weight: bold;
+    color: #333;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+input[b-wyny4dmi5f], textarea[b-wyny4dmi5f], select[b-wyny4dmi5f] {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.25rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+textarea[b-wyny4dmi5f] {
+    height: 100px;
+}
+
+button[b-wyny4dmi5f] {
+    margin-top: 1rem;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    button:hover[b-wyny4dmi5f] {
+        background-color: #0056b3;
+    }
+
+/* Estilo para o campo de erro de validação */
+input:invalid[b-wyny4dmi5f], textarea:invalid[b-wyny4dmi5f], select:invalid[b-wyny4dmi5f] {
+    border-color: red;
+}
+
+input:focus[b-wyny4dmi5f], textarea:focus[b-wyny4dmi5f], select:focus[b-wyny4dmi5f] {
+    border-color: #0056b3;
+    outline: none;
+}
+
+.validation-message[b-wyny4dmi5f] {
+    color: red;
+    font-size: 0.875rem;
+}
 /* /Layout/FeedLayout.razor.rz.scp.css */
 .page[b-4b13lbfu6v] {
     position: relative;

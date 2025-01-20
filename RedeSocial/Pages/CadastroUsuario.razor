@@ -1,0 +1,107 @@
+﻿@page "/cadastro"
+@layout CadastroUsuarioLayout
+@inject NavigationManager Navigation
+@* @using RedeSocial.Domain.DTOs; *@
+
+<h3>Cadastro de Novo Usuário</h3>
+
+<EditForm Model="@usuarioDTO" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group mb-3">
+        <label for="nome">Nome:</label>
+        <InputText id="nome" class="form-control" @bind-Value="usuarioDTO.Nome" placeholder=" Digite seu nome completo" />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="email">E-mail:</label>
+        <InputText id="email" class="form-control" @bind-Value="usuarioDTO.Email" placeholder="Digite seu e-mail" />
+        <ValidationMessage For="@(() => usuarioDTO.Email)" />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="senha">Senha:</label>
+        @* <InputPassword id="senha" class="form-control" @bind-Value="usuarioDTO.Senha" /> *@
+        <InputText id="senha" class="form-control" @bind-Value="usuarioDTO.Senha" placeholder="Cadastre uma senha" />
+        <ValidationMessage For="@(() => usuarioDTO.Senha)" />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="dataNascimento">Data de Nascimento:</label>
+        <InputDate id="dataNascimento" class="form-control" placeholder="Data de Nascimento" @bind-Value="usuarioDTO.DataNascimento" />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="biografia">Biografia:</label>
+        <InputTextArea id="biografia" class="form-control" @bind-Value="usuarioDTO.Biografia" placeholder="Escreva sobre você" />
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Visibilidade:</label>
+        <InputSelect @bind-Value="usuarioDTO.Visibilidade" class="form-control">
+            <option value="0">Público</option>
+            <option value="1">Privado</option>
+        </InputSelect>
+    </div>
+
+    <div class="form-group mb-3">
+        <label>
+            <InputCheckbox @bind-Value="usuarioDTO.ReceberNotificacoes" />
+            Receber Notificações
+        </label>
+    </div>
+
+    <div class="form-group mt-3">
+        <button type="submit" class="btn btn-primary">Cadastrar</button>
+    </div>
+</EditForm>
+
+@code {
+
+    // Simulando a classe UsuarioDTO localmente
+    public class UsuarioDTO
+    {
+        public string? Nome { get; set; }
+        public string? Email { get; set; }
+        public string? Senha { get; set; }
+        public DateTime DataNascimento { get; set; }
+        public string? Biografia { get; set; }
+        public int Visibilidade { get; set; }
+        public bool ReceberNotificacoes { get; set; } = true;
+        public int Permissao { get; set; } = 0;
+    }
+
+    private UsuarioDTO usuarioDTO = new UsuarioDTO();
+
+    // Injeção do HttpClient para comunicação com a API
+    [Inject]
+    public HttpClient Http { get; set; }
+
+    // URL da API do backend (ajuste conforme necessário)
+    private string apiUrl = "https://seu-backend-api.com/api/usuarios";
+
+    private async Task HandleValidSubmit()
+    {
+        try
+        {
+            var response = await Http.PostAsJsonAsync(apiUrl, usuarioDTO);
+
+            if (response.IsSuccessStatusCode)
+            {
+                // Sucesso no cadastro, redirecionar para o login
+                Navigation.NavigateTo("/login");
+            }
+            else
+            {
+                // Caso ocorra algum erro, exibir uma mensagem de erro (pode melhorar)
+                var errorMessage = await response.Content.ReadAsStringAsync();
+                Console.WriteLine($"Erro ao cadastrar usuário: {errorMessage}");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Erro ao comunicar com o backend: {ex.Message}");
+        }
+    }
+}

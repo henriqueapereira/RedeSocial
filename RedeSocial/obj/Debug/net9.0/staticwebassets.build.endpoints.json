@@ -3,13 +3,13 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "RedeSocial.bicggnrydq.styles.css",
+      "Route": "RedeSocial.hq25o0i6uy.styles.css",
       "AssetFile": "RedeSocial.styles.css.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000385208012"
+          "Quality": "0.000342583076"
         }
       ],
       "ResponseHeaders": [
@@ -27,7 +27,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2595"
+          "Value": "2918"
         },
         {
           "Name": "Content-Type",
@@ -35,15 +35,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
+          "Value": "W/\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Vary",
@@ -53,11 +53,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bicggnrydq"
+          "Value": "hq25o0i6uy"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
         },
         {
           "Name": "label",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "Route": "RedeSocial.bicggnrydq.styles.css",
+      "Route": "RedeSocial.hq25o0i6uy.styles.css",
       "AssetFile": "RedeSocial.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -80,7 +80,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9658"
+          "Value": "11360"
         },
         {
           "Name": "Content-Type",
@@ -88,21 +88,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
+          "Value": "\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bicggnrydq"
+          "Value": "hq25o0i6uy"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
         },
         {
           "Name": "label",
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "Route": "RedeSocial.bicggnrydq.styles.css.gz",
+      "Route": "RedeSocial.hq25o0i6uy.styles.css.gz",
       "AssetFile": "RedeSocial.styles.css.gz",
       "Selectors": [],
       "ResponseHeaders": [
@@ -129,7 +129,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2595"
+          "Value": "2918"
         },
         {
           "Name": "Content-Type",
@@ -137,11 +137,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Vary",
@@ -151,11 +151,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bicggnrydq"
+          "Value": "hq25o0i6uy"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM="
+          "Value": "sha256-0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8="
         },
         {
           "Name": "label",
@@ -170,7 +170,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000385208012"
+          "Quality": "0.000342583076"
         }
       ],
       "ResponseHeaders": [
@@ -188,7 +188,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2595"
+          "Value": "2918"
         },
         {
           "Name": "Content-Type",
@@ -196,15 +196,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
+          "Value": "W/\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Vary",
@@ -214,7 +214,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
         }
       ]
     },
@@ -233,7 +233,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9658"
+          "Value": "11360"
         },
         {
           "Name": "Content-Type",
@@ -241,17 +241,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
+          "Value": "\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
         }
       ]
     },
@@ -274,7 +274,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2595"
+          "Value": "2918"
         },
         {
           "Name": "Content-Type",
@@ -282,11 +282,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Vary",
@@ -296,7 +296,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM="
+          "Value": "sha256-0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8="
         }
       ]
     },
@@ -8347,8 +8347,8 @@
       ]
     },
     {
-      "Route": "_framework/RedeSocial.hqy7v4kwi7.wasm",
-      "AssetFile": "_framework/RedeSocial.hqy7v4kwi7.wasm",
+      "Route": "_framework/RedeSocial.9igqshfj4c.pdb",
+      "AssetFile": "_framework/RedeSocial.9igqshfj4c.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8361,168 +8361,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26901"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:36 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hqy7v4kwi7"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/RedeSocial.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.hqy7v4kwi7.wasm",
-      "AssetFile": "_framework/RedeSocial.hqy7v4kwi7.wasm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000090375056"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11064"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hqy7v4kwi7"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/RedeSocial.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.hqy7v4kwi7.wasm.gz",
-      "AssetFile": "_framework/RedeSocial.hqy7v4kwi7.wasm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11064"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hqy7v4kwi7"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/RedeSocial.wasm.gz"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.pdb",
-      "AssetFile": "_framework/RedeSocial.tpmfhxnf7x.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29004"
+          "Value": "35300"
         },
         {
           "Name": "Content-Type",
@@ -8530,158 +8369,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk=\""
+          "Value": "\"EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:36 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.pdb",
-      "AssetFile": "_framework/RedeSocial.tpmfhxnf7x.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000046485682"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21511"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.pdb.gz",
-      "AssetFile": "_framework/RedeSocial.tpmfhxnf7x.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21511"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.tpmfhxnf7x.pdb",
-      "AssetFile": "_framework/RedeSocial.tpmfhxnf7x.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29004"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:36 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:02 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tpmfhxnf7x"
+          "Value": "9igqshfj4c"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk="
+          "Value": "sha256-EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q="
         },
         {
           "Name": "label",
@@ -8690,13 +8392,13 @@
       ]
     },
     {
-      "Route": "_framework/RedeSocial.tpmfhxnf7x.pdb",
-      "AssetFile": "_framework/RedeSocial.tpmfhxnf7x.pdb.gz",
+      "Route": "_framework/RedeSocial.9igqshfj4c.pdb",
+      "AssetFile": "_framework/RedeSocial.9igqshfj4c.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000046485682"
+          "Quality": "0.000037060371"
         }
       ],
       "ResponseHeaders": [
@@ -8714,7 +8416,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21511"
+          "Value": "26982"
         },
         {
           "Name": "Content-Type",
@@ -8722,15 +8424,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8=\""
+          "Value": "\"ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk=\""
+          "Value": "W/\"EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
         },
         {
           "Name": "Vary",
@@ -8740,11 +8442,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tpmfhxnf7x"
+          "Value": "9igqshfj4c"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk="
+          "Value": "sha256-EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q="
         },
         {
           "Name": "label",
@@ -8753,8 +8455,8 @@
       ]
     },
     {
-      "Route": "_framework/RedeSocial.tpmfhxnf7x.pdb.gz",
-      "AssetFile": "_framework/RedeSocial.tpmfhxnf7x.pdb.gz",
+      "Route": "_framework/RedeSocial.9igqshfj4c.pdb.gz",
+      "AssetFile": "_framework/RedeSocial.9igqshfj4c.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8771,7 +8473,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21511"
+          "Value": "26982"
         },
         {
           "Name": "Content-Type",
@@ -8779,11 +8481,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8=\""
+          "Value": "\"ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
         },
         {
           "Name": "Vary",
@@ -8793,11 +8495,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tpmfhxnf7x"
+          "Value": "9igqshfj4c"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8="
+          "Value": "sha256-ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo="
         },
         {
           "Name": "label",
@@ -8806,8 +8508,8 @@
       ]
     },
     {
-      "Route": "_framework/RedeSocial.wasm",
-      "AssetFile": "_framework/RedeSocial.hqy7v4kwi7.wasm",
+      "Route": "_framework/RedeSocial.pdb",
+      "AssetFile": "_framework/RedeSocial.9igqshfj4c.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8820,36 +8522,36 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26901"
+          "Value": "35300"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg=\""
+          "Value": "\"EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:36 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:02 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg="
+          "Value": "sha256-EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q="
         }
       ]
     },
     {
-      "Route": "_framework/RedeSocial.wasm",
-      "AssetFile": "_framework/RedeSocial.hqy7v4kwi7.wasm.gz",
+      "Route": "_framework/RedeSocial.pdb",
+      "AssetFile": "_framework/RedeSocial.9igqshfj4c.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000090375056"
+          "Quality": "0.000037060371"
         }
       ],
       "ResponseHeaders": [
@@ -8867,23 +8569,23 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11064"
+          "Value": "26982"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA=\""
+          "Value": "\"ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg=\""
+          "Value": "W/\"EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
         },
         {
           "Name": "Vary",
@@ -8893,13 +8595,150 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg="
+          "Value": "sha256-EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.pdb.gz",
+      "AssetFile": "_framework/RedeSocial.9igqshfj4c.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.wasm",
+      "AssetFile": "_framework/RedeSocial.xrgs7gutb4.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.wasm",
+      "AssetFile": "_framework/RedeSocial.xrgs7gutb4.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000068558892"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c="
         }
       ]
     },
     {
       "Route": "_framework/RedeSocial.wasm.gz",
-      "AssetFile": "_framework/RedeSocial.hqy7v4kwi7.wasm.gz",
+      "AssetFile": "_framework/RedeSocial.xrgs7gutb4.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8916,7 +8755,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11064"
+          "Value": "14585"
         },
         {
           "Name": "Content-Type",
@@ -8924,11 +8763,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA=\""
+          "Value": "\"/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
         },
         {
           "Name": "Vary",
@@ -8938,7 +8777,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA="
+          "Value": "sha256-/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.xrgs7gutb4.wasm",
+      "AssetFile": "_framework/RedeSocial.xrgs7gutb4.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrgs7gutb4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RedeSocial.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.xrgs7gutb4.wasm",
+      "AssetFile": "_framework/RedeSocial.xrgs7gutb4.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000068558892"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrgs7gutb4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RedeSocial.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.xrgs7gutb4.wasm.gz",
+      "AssetFile": "_framework/RedeSocial.xrgs7gutb4.wasm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrgs7gutb4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RedeSocial.wasm.gz"
         }
       ]
     },
@@ -57241,17 +57241,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VAQ1ktOD2SuSv165rzGlPvImCM6w5Ka5XXFAF5IJFe0=\""
+          "Value": "\"RQMVRHTrf+3sMn3MNB8rEYWNzH7GFdLIii4BabWrD+Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:51 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VAQ1ktOD2SuSv165rzGlPvImCM6w5Ka5XXFAF5IJFe0="
+          "Value": "sha256-RQMVRHTrf+3sMn3MNB8rEYWNzH7GFdLIii4BabWrD+Q="
         }
       ]
     },
@@ -57262,7 +57262,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080906149"
+          "Quality": "0.000080899604"
         }
       ],
       "ResponseHeaders": [
@@ -57280,7 +57280,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12359"
+          "Value": "12360"
         },
         {
           "Name": "Content-Type",
@@ -57288,15 +57288,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9zxKpA1MBcfxTb7KWJ1lBjko+GwGOT2Ot8oUg3XHio0=\""
+          "Value": "\"mhhLfFIAf9M/7bvAdD2MZavGIBcjf54IktppDhP3AEE=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VAQ1ktOD2SuSv165rzGlPvImCM6w5Ka5XXFAF5IJFe0=\""
+          "Value": "W/\"RQMVRHTrf+3sMn3MNB8rEYWNzH7GFdLIii4BabWrD+Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:26:36 GMT"
         },
         {
           "Name": "Vary",
@@ -57306,7 +57306,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VAQ1ktOD2SuSv165rzGlPvImCM6w5Ka5XXFAF5IJFe0="
+          "Value": "sha256-RQMVRHTrf+3sMn3MNB8rEYWNzH7GFdLIii4BabWrD+Q="
         }
       ]
     },
@@ -57329,7 +57329,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12359"
+          "Value": "12360"
         },
         {
           "Name": "Content-Type",
@@ -57337,11 +57337,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9zxKpA1MBcfxTb7KWJ1lBjko+GwGOT2Ot8oUg3XHio0=\""
+          "Value": "\"mhhLfFIAf9M/7bvAdD2MZavGIBcjf54IktppDhP3AEE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:26:36 GMT"
         },
         {
           "Name": "Vary",
@@ -57351,7 +57351,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9zxKpA1MBcfxTb7KWJ1lBjko+GwGOT2Ot8oUg3XHio0="
+          "Value": "sha256-mhhLfFIAf9M/7bvAdD2MZavGIBcjf54IktppDhP3AEE="
         }
       ]
     },
@@ -61229,6 +61229,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4="
+        }
+      ]
+    },
+    {
+      "Route": "images/default-profile.jpg",
+      "AssetFile": "images/default-profile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/ptnc46SAtx1VasAQb7oBclCx63dA7jgFo06mJBn8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 16:41:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/ptnc46SAtx1VasAQb7oBclCx63dA7jgFo06mJBn8c="
+        }
+      ]
+    },
+    {
+      "Route": "images/default-profile.vv4z31j50e.jpg",
+      "AssetFile": "images/default-profile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/ptnc46SAtx1VasAQb7oBclCx63dA7jgFo06mJBn8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 16:41:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vv4z31j50e"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/ptnc46SAtx1VasAQb7oBclCx63dA7jgFo06mJBn8c="
+        },
+        {
+          "Name": "label",
+          "Value": "images/default-profile.jpg"
         }
       ]
     },

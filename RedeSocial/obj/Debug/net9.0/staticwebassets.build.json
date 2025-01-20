@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VbrBKUzGnKIJTNepLFZZjTifX0DFUUxE5nIZsZOontU=",
+  "Hash": "zokektMDhyQkOyfxga/wimGL1ZkrFnMwHnNiR2pVzgs=",
   "Source": "RedeSocial",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "sgxx0plign",
-      "Integrity": "VAQ1ktOD2SuSv165rzGlPvImCM6w5Ka5XXFAF5IJFe0=",
+      "Fingerprint": "zypt4seun0",
+      "Integrity": "RQMVRHTrf+3sMn3MNB8rEYWNzH7GFdLIii4BabWrD+Q=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "tpmfhxnf7x",
-      "Integrity": "wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk=",
+      "Fingerprint": "9igqshfj4c",
+      "Integrity": "EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\RedeSocial.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "hqy7v4kwi7",
-      "Integrity": "ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg=",
+      "Fingerprint": "xrgs7gutb4",
+      "Integrity": "7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\webcil\\RedeSocial.wasm"
@@ -4721,12 +4721,12 @@
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.Debug.wasm"
     },
     {
-      "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\1uwihg3u7h-bicggnrydq.gz",
+      "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\1uwihg3u7h-hq25o0i6uy.gz",
       "SourceId": "RedeSocial",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "RedeSocial#[.{fingerprint=bicggnrydq}]!.bundle.scp.css.gz",
+      "RelativePath": "RedeSocial#[.{fingerprint=hq25o0i6uy}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -4735,8 +4735,8 @@
       "RelatedAsset": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RedeSocial.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "g16b2hpkqg",
-      "Integrity": "rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=",
+      "Fingerprint": "oabcyis3ji",
+      "Integrity": "0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RedeSocial.bundle.scp.css"
@@ -6863,12 +6863,12 @@
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WindowsBase.wasm"
     },
     {
-      "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\hw8cq5b8o1-bicggnrydq.gz",
+      "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\hw8cq5b8o1-hq25o0i6uy.gz",
       "SourceId": "RedeSocial",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "RedeSocial#[.{fingerprint=bicggnrydq}]?.styles.css.gz",
+      "RelativePath": "RedeSocial#[.{fingerprint=hq25o0i6uy}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -6877,8 +6877,8 @@
       "RelatedAsset": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\scopedcss\\bundle\\RedeSocial.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "g16b2hpkqg",
-      "Integrity": "rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=",
+      "Fingerprint": "oabcyis3ji",
+      "Integrity": "0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\scopedcss\\bundle\\RedeSocial.styles.css"
@@ -6989,12 +6989,12 @@
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ih54000l27-hqy7v4kwi7.gz",
+      "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ih54000l27-xrgs7gutb4.gz",
       "SourceId": "RedeSocial",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/RedeSocial#[.{fingerprint=hqy7v4kwi7}]!.wasm.gz",
+      "RelativePath": "_framework/RedeSocial#[.{fingerprint=xrgs7gutb4}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7003,8 +7003,8 @@
       "RelatedAsset": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RedeSocial.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "j5pdrxeusl",
-      "Integrity": "lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA=",
+      "Fingerprint": "0d38k3sdlk",
+      "Integrity": "/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RedeSocial.wasm"
@@ -7787,12 +7787,12 @@
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.StackTrace.wasm"
     },
     {
-      "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\nk0g0zbyjv-tpmfhxnf7x.gz",
+      "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\nk0g0zbyjv-9igqshfj4c.gz",
       "SourceId": "RedeSocial",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/RedeSocial#[.{fingerprint=tpmfhxnf7x}]!.pdb.gz",
+      "RelativePath": "_framework/RedeSocial#[.{fingerprint=9igqshfj4c}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7801,8 +7801,8 @@
       "RelatedAsset": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RedeSocial.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "l7xkoz8ged",
-      "Integrity": "3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8=",
+      "Fingerprint": "uj9p3b4zny",
+      "Integrity": "ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RedeSocial.pdb"
@@ -7976,7 +7976,7 @@
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Linq.Queryable.wasm"
     },
     {
-      "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ofimr04ogk-sgxx0plign.gz",
+      "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ofimr04ogk-zypt4seun0.gz",
       "SourceId": "RedeSocial",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\",
@@ -7990,8 +7990,8 @@
       "RelatedAsset": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hq5cbop5of",
-      "Integrity": "9zxKpA1MBcfxTb7KWJ1lBjko+GwGOT2Ot8oUg3XHio0=",
+      "Fingerprint": "2m452ohjyt",
+      "Integrity": "mhhLfFIAf9M/7bvAdD2MZavGIBcjf54IktppDhP3AEE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9628,8 +9628,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "bicggnrydq",
-      "Integrity": "rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=",
+      "Fingerprint": "hq25o0i6uy",
+      "Integrity": "GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\scopedcss\\bundle\\RedeSocial.styles.css"
@@ -9649,8 +9649,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "bicggnrydq",
-      "Integrity": "rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=",
+      "Fingerprint": "hq25o0i6uy",
+      "Integrity": "GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RedeSocial.bundle.scp.css"
@@ -9717,6 +9717,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-192.png"
+    },
+    {
+      "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\wwwroot\\images\\default-profile.jpg",
+      "SourceId": "RedeSocial",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/default-profile#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vv4z31j50e",
+      "Integrity": "e/ptnc46SAtx1VasAQb7oBclCx63dA7jgFo06mJBn8c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\default-profile.jpg"
     },
     {
       "Identity": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\wwwroot\\index.html",
@@ -10705,11 +10726,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VAQ1ktOD2SuSv165rzGlPvImCM6w5Ka5XXFAF5IJFe0=\""
+          "Value": "\"RQMVRHTrf+3sMn3MNB8rEYWNzH7GFdLIii4BabWrD+Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:51 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,18 +10740,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VAQ1ktOD2SuSv165rzGlPvImCM6w5Ka5XXFAF5IJFe0="
+          "Value": "sha256-RQMVRHTrf+3sMn3MNB8rEYWNzH7GFdLIii4BabWrD+Q="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ofimr04ogk-sgxx0plign.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ofimr04ogk-zypt4seun0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080906149"
+          "Quality": "0.000080899604"
         }
       ],
       "ResponseHeaders": [
@@ -10740,15 +10761,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12359"
+          "Value": "12360"
         },
         {
           "Name": "ETag",
-          "Value": "\"9zxKpA1MBcfxTb7KWJ1lBjko+GwGOT2Ot8oUg3XHio0=\""
+          "Value": "\"mhhLfFIAf9M/7bvAdD2MZavGIBcjf54IktppDhP3AEE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:26:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10789,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VAQ1ktOD2SuSv165rzGlPvImCM6w5Ka5XXFAF5IJFe0=\""
+          "Value": "W/\"RQMVRHTrf+3sMn3MNB8rEYWNzH7GFdLIii4BabWrD+Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VAQ1ktOD2SuSv165rzGlPvImCM6w5Ka5XXFAF5IJFe0="
+          "Value": "sha256-RQMVRHTrf+3sMn3MNB8rEYWNzH7GFdLIii4BabWrD+Q="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ofimr04ogk-sgxx0plign.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ofimr04ogk-zypt4seun0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10810,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12359"
+          "Value": "12360"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9zxKpA1MBcfxTb7KWJ1lBjko+GwGOT2Ot8oUg3XHio0=\""
+          "Value": "\"mhhLfFIAf9M/7bvAdD2MZavGIBcjf54IktppDhP3AEE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:26:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10840,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9zxKpA1MBcfxTb7KWJ1lBjko+GwGOT2Ot8oUg3XHio0="
+          "Value": "sha256-mhhLfFIAf9M/7bvAdD2MZavGIBcjf54IktppDhP3AEE="
         }
       ]
     },
@@ -22285,168 +22306,7 @@
       ]
     },
     {
-      "Route": "_framework/RedeSocial.hqy7v4kwi7.wasm",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RedeSocial.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26901"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hqy7v4kwi7"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/RedeSocial.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.hqy7v4kwi7.wasm",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ih54000l27-hqy7v4kwi7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000090375056"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11064"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hqy7v4kwi7"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/RedeSocial.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.hqy7v4kwi7.wasm.gz",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ih54000l27-hqy7v4kwi7.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11064"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hqy7v4kwi7"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/RedeSocial.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.pdb",
+      "Route": "_framework/RedeSocial.9igqshfj4c.pdb",
       "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RedeSocial.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22456,7 +22316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29004"
+          "Value": "35300"
         },
         {
           "Name": "Content-Type",
@@ -22464,148 +22324,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk=\""
+          "Value": "\"EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.pdb",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\nk0g0zbyjv-tpmfhxnf7x.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000046485682"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21511"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.pdb.gz",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\nk0g0zbyjv-tpmfhxnf7x.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21511"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RedeSocial.tpmfhxnf7x.pdb",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RedeSocial.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29004"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:36 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22615,7 +22338,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tpmfhxnf7x"
+          "Value": "9igqshfj4c"
         },
         {
           "Name": "label",
@@ -22623,18 +22346,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk="
+          "Value": "sha256-EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q="
         }
       ]
     },
     {
-      "Route": "_framework/RedeSocial.tpmfhxnf7x.pdb",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\nk0g0zbyjv-tpmfhxnf7x.gz",
+      "Route": "_framework/RedeSocial.9igqshfj4c.pdb",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\nk0g0zbyjv-9igqshfj4c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000046485682"
+          "Quality": "0.000037060371"
         }
       ],
       "ResponseHeaders": [
@@ -22644,15 +22367,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21511"
+          "Value": "26982"
         },
         {
           "Name": "ETag",
-          "Value": "\"3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8=\""
+          "Value": "\"ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22672,13 +22395,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk=\""
+          "Value": "W/\"EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tpmfhxnf7x"
+          "Value": "9igqshfj4c"
         },
         {
           "Name": "label",
@@ -22686,13 +22409,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wSUZKnz5t694wXJ4Ob0eHWVQbynC9SXHGeCHxTL0aUk="
+          "Value": "sha256-EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q="
         }
       ]
     },
     {
-      "Route": "_framework/RedeSocial.tpmfhxnf7x.pdb.gz",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\nk0g0zbyjv-tpmfhxnf7x.gz",
+      "Route": "_framework/RedeSocial.9igqshfj4c.pdb.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\nk0g0zbyjv-9igqshfj4c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22701,7 +22424,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21511"
+          "Value": "26982"
         },
         {
           "Name": "Content-Type",
@@ -22709,11 +22432,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8=\""
+          "Value": "\"ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22731,7 +22454,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tpmfhxnf7x"
+          "Value": "9igqshfj4c"
         },
         {
           "Name": "label",
@@ -22739,7 +22462,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3xZ3lhfdWMb3/qrb9/VNcXDm6BbAcXpDMM+Rv7VUAp8="
+          "Value": "sha256-ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.pdb",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RedeSocial.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.pdb",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\nk0g0zbyjv-9igqshfj4c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000037060371"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26982"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EQZ6RrEGjyIQPuQyE2KDNy0jbUanOzgo5eGbxYLBL+Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.pdb.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\nk0g0zbyjv-9igqshfj4c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZhT+7OPH1APg67Ux5BZavrnhlitUT8YrXgYQolWtaQo="
         }
       ]
     },
@@ -22754,7 +22614,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26901"
+          "Value": "37141"
         },
         {
           "Name": "Content-Type",
@@ -22762,11 +22622,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg=\""
+          "Value": "\"7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:36 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22776,18 +22636,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg="
+          "Value": "sha256-7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c="
         }
       ]
     },
     {
       "Route": "_framework/RedeSocial.wasm",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ih54000l27-hqy7v4kwi7.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ih54000l27-xrgs7gutb4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000090375056"
+          "Quality": "0.000068558892"
         }
       ],
       "ResponseHeaders": [
@@ -22797,15 +22657,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11064"
+          "Value": "14585"
         },
         {
           "Name": "ETag",
-          "Value": "\"lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA=\""
+          "Value": "\"/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22825,19 +22685,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg=\""
+          "Value": "W/\"7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZwVS3meU7ojA+ct0teIOmkXyMLa8g7nXnmbITefYwyg="
+          "Value": "sha256-7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c="
         }
       ]
     },
     {
       "Route": "_framework/RedeSocial.wasm.gz",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ih54000l27-hqy7v4kwi7.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ih54000l27-xrgs7gutb4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22846,7 +22706,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11064"
+          "Value": "14585"
         },
         {
           "Name": "Content-Type",
@@ -22854,11 +22714,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA=\""
+          "Value": "\"/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:12:37 GMT"
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22876,7 +22736,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lz/bndNbi21wD2b+vKpW7Bl5rWblxzUfPU47Jtn7lEA="
+          "Value": "sha256-/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.xrgs7gutb4.wasm",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RedeSocial.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrgs7gutb4"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RedeSocial.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.xrgs7gutb4.wasm",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ih54000l27-xrgs7gutb4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000068558892"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14585"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrgs7gutb4"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RedeSocial.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7QoOdzvO9tUndhedr3ds5NXyASzpHhumE+wdFebTn6c="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RedeSocial.xrgs7gutb4.wasm.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\ih54000l27-xrgs7gutb4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 20:29:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrgs7gutb4"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RedeSocial.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/LxlA33jioTseARkv3XGHSNZIujCpeJlvCEUTWSURrY="
         }
       ]
     },
@@ -71619,6 +71640,88 @@
       ]
     },
     {
+      "Route": "images/default-profile.jpg",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\wwwroot\\images\\default-profile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/ptnc46SAtx1VasAQb7oBclCx63dA7jgFo06mJBn8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 16:41:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/ptnc46SAtx1VasAQb7oBclCx63dA7jgFo06mJBn8c="
+        }
+      ]
+    },
+    {
+      "Route": "images/default-profile.vv4z31j50e.jpg",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\wwwroot\\images\\default-profile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/ptnc46SAtx1VasAQb7oBclCx63dA7jgFo06mJBn8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 16:41:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vv4z31j50e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/default-profile.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/ptnc46SAtx1VasAQb7oBclCx63dA7jgFo06mJBn8c="
+        }
+      ]
+    },
+    {
       "Route": "index.html",
       "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\3xyxig3x0f-if19w9tt6d.gz",
       "Selectors": [
@@ -85029,13 +85132,13 @@
       ]
     },
     {
-      "Route": "RedeSocial.bicggnrydq.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\1uwihg3u7h-bicggnrydq.gz",
+      "Route": "RedeSocial.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\1uwihg3u7h-hq25o0i6uy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000385208012"
+          "Quality": "0.000342583076"
         }
       ],
       "ResponseHeaders": [
@@ -85045,19 +85148,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2595"
+          "Value": "2918"
         },
         {
           "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -85073,26 +85176,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
+          "Value": "W/\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "bicggnrydq"
-        },
-        {
-          "Name": "label",
-          "Value": "RedeSocial.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
         }
       ]
     },
     {
-      "Route": "RedeSocial.bicggnrydq.bundle.scp.css",
+      "Route": "RedeSocial.bundle.scp.css",
       "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RedeSocial.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -85102,7 +85197,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9658"
+          "Value": "11360"
         },
         {
           "Name": "Content-Type",
@@ -85110,11 +85205,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
+          "Value": "\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
+        }
+      ]
+    },
+    {
+      "Route": "RedeSocial.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\1uwihg3u7h-hq25o0i6uy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8="
+        }
+      ]
+    },
+    {
+      "Route": "RedeSocial.hq25o0i6uy.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\1uwihg3u7h-hq25o0i6uy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000342583076"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2918"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hq25o0i6uy"
+        },
+        {
+          "Name": "label",
+          "Value": "RedeSocial.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
+        }
+      ]
+    },
+    {
+      "Route": "RedeSocial.hq25o0i6uy.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RedeSocial.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85124,7 +85364,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bicggnrydq"
+          "Value": "hq25o0i6uy"
         },
         {
           "Name": "label",
@@ -85132,13 +85372,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
         }
       ]
     },
     {
-      "Route": "RedeSocial.bicggnrydq.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\1uwihg3u7h-bicggnrydq.gz",
+      "Route": "RedeSocial.hq25o0i6uy.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\1uwihg3u7h-hq25o0i6uy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -85147,7 +85387,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2595"
+          "Value": "2918"
         },
         {
           "Name": "Content-Type",
@@ -85155,11 +85395,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85177,7 +85417,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bicggnrydq"
+          "Value": "hq25o0i6uy"
         },
         {
           "Name": "label",
@@ -85185,18 +85425,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM="
+          "Value": "sha256-0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8="
         }
       ]
     },
     {
-      "Route": "RedeSocial.bicggnrydq.styles.css",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\hw8cq5b8o1-bicggnrydq.gz",
+      "Route": "RedeSocial.hq25o0i6uy.styles.css",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\hw8cq5b8o1-hq25o0i6uy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000385208012"
+          "Quality": "0.000342583076"
         }
       ],
       "ResponseHeaders": [
@@ -85206,15 +85446,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2595"
+          "Value": "2918"
         },
         {
           "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85234,13 +85474,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
+          "Value": "W/\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bicggnrydq"
+          "Value": "hq25o0i6uy"
         },
         {
           "Name": "label",
@@ -85248,12 +85488,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
         }
       ]
     },
     {
-      "Route": "RedeSocial.bicggnrydq.styles.css",
+      "Route": "RedeSocial.hq25o0i6uy.styles.css",
       "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\scopedcss\\bundle\\RedeSocial.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -85263,7 +85503,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9658"
+          "Value": "11360"
         },
         {
           "Name": "Content-Type",
@@ -85271,11 +85511,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
+          "Value": "\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85285,7 +85525,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bicggnrydq"
+          "Value": "hq25o0i6uy"
         },
         {
           "Name": "label",
@@ -85293,13 +85533,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
         }
       ]
     },
     {
-      "Route": "RedeSocial.bicggnrydq.styles.css.gz",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\hw8cq5b8o1-bicggnrydq.gz",
+      "Route": "RedeSocial.hq25o0i6uy.styles.css.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\hw8cq5b8o1-hq25o0i6uy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -85308,7 +85548,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2595"
+          "Value": "2918"
         },
         {
           "Name": "Content-Type",
@@ -85316,11 +85556,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85338,7 +85578,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bicggnrydq"
+          "Value": "hq25o0i6uy"
         },
         {
           "Name": "label",
@@ -85346,155 +85586,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM="
-        }
-      ]
-    },
-    {
-      "Route": "RedeSocial.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\1uwihg3u7h-bicggnrydq.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000385208012"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2595"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
-        }
-      ]
-    },
-    {
-      "Route": "RedeSocial.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RedeSocial.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9658"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
-        }
-      ]
-    },
-    {
-      "Route": "RedeSocial.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\1uwihg3u7h-bicggnrydq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2595"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM="
+          "Value": "sha256-0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8="
         }
       ]
     },
     {
       "Route": "RedeSocial.styles.css",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\hw8cq5b8o1-bicggnrydq.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\hw8cq5b8o1-hq25o0i6uy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000385208012"
+          "Quality": "0.000342583076"
         }
       ],
       "ResponseHeaders": [
@@ -85504,15 +85607,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2595"
+          "Value": "2918"
         },
         {
           "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85532,13 +85635,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
+          "Value": "W/\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
         }
       ]
     },
@@ -85553,7 +85656,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9658"
+          "Value": "11360"
         },
         {
           "Name": "Content-Type",
@@ -85561,11 +85664,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E=\""
+          "Value": "\"GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85575,13 +85678,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rWBldF7x3VT65BYjCF1RjWhaoohCrbzXDpOt1SKLd7E="
+          "Value": "sha256-GVXVJPP57eoP4EtGWBrRDE3/L8FI5OWSgGMUTee/z7g="
         }
       ]
     },
     {
       "Route": "RedeSocial.styles.css.gz",
-      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\hw8cq5b8o1-bicggnrydq.gz",
+      "AssetFile": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\obj\\Debug\\net9.0\\compressed\\hw8cq5b8o1-hq25o0i6uy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -85590,7 +85693,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2595"
+          "Value": "2918"
         },
         {
           "Name": "Content-Type",
@@ -85598,11 +85701,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM=\""
+          "Value": "\"0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 19:13:50 GMT"
+          "Value": "Mon, 20 Jan 2025 19:45:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85620,7 +85723,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rFYAOZ05OfawF9V7oXAxXqVbgi66bzilg4ZsOXhaWIM="
+          "Value": "sha256-0NFkjnaOXGvychTBaZrUQhSVF6o/xs2I5lInQDBo2x8="
         }
       ]
     },
