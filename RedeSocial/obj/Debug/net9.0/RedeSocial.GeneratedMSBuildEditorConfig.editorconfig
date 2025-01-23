@@ -28,10 +28,6 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Henrique A Pereira/Documents/Programação/LuisDev/00_Projetos/RedeSocial/RedeSocial/Pages/Feed.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVlZC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Henrique A Pereira/Documents/Programação/LuisDev/00_Projetos/RedeSocial/RedeSocial/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -51,3 +47,7 @@ build_metadata.AdditionalFiles.CssScope = b-sgdsa2vcpg
 [C:/Users/Henrique A Pereira/Documents/Programação/LuisDev/00_Projetos/RedeSocial/RedeSocial/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-no45vl3liq
+
+[C:/Users/Henrique A Pereira/Documents/Programação/LuisDev/00_Projetos/RedeSocial/RedeSocial/Pages/Feed.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVlZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-3qep18pqyz

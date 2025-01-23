@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RedeSocial",
   "resources": {
-    "hash": "sha256-+E8a2Z4mheXn8FJ5i0qLBZTKOsQNYiFZbTDwhLifxYU=",
+    "hash": "sha256-i4D3KNRkKvOVvBEhJLky/dgz3WVFMYu0jYn0R3lOKtM=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "RedeSocial.wn4dqfbopp.wasm": "RedeSocial.wasm",
-      "RedeSocial.aga0zilu15.pdb": "RedeSocial.pdb"
+      "RedeSocial.lqxxmk6oif.wasm": "RedeSocial.wasm",
+      "RedeSocial.6va0oaankd.pdb": "RedeSocial.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -412,10 +412,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "RedeSocial.wn4dqfbopp.wasm": "sha256-JAEUYSOo3S6JfZQEeeIVtDosZ6fbxvu0SOjclMKlbPQ="
+      "RedeSocial.lqxxmk6oif.wasm": "sha256-DS8PvcC2OpoUPpy0BrLFG1GGVa+qRgQvva5ZwQ3kcPY="
     },
     "pdb": {
-      "RedeSocial.aga0zilu15.pdb": "sha256-FnAC/0cy5sjqvV2x/nm8AHg5Hix/DFFmTsseiw5+wZA="
+      "RedeSocial.6va0oaankd.pdb": "sha256-AhdILi4t028gxHMn0RqgYtlG3/atPrs+JxkZtE6Ai+0="
     }
   },
   "cacheBootResources": true,
