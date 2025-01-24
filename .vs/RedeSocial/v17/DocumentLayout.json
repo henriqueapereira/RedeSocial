@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\",
+  "WorkspaceRootPath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\RedeSocial-FrontEnd\\RedeSocial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|c:\\users\\caio\\documents\\dev\\mentoria\\redesocial\\redesocial\\pages\\cadastrousuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|solutionrelative:redesocial\\pages\\cadastrousuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\redesocial-frontend\\redesocial\\redesocial\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|solutionrelative:redesocial\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|c:\\users\\caio\\documents\\dev\\mentoria\\redesocial\\redesocial\\layout\\cadastrousuariolayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|solutionrelative:redesocial\\layout\\cadastrousuariolayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|c:\\users\\caio\\documents\\dev\\mentoria\\redesocial\\redesocial\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\redesocial-frontend\\redesocial\\redesocial\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|solutionrelative:redesocial\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|c:\\users\\caio\\documents\\dev\\mentoria\\redesocial\\redesocial\\layout\\cadastrousuariolayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|solutionrelative:redesocial\\layout\\cadastrousuariolayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\redesocial-frontend\\redesocial\\redesocial\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|solutionrelative:redesocial\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\redesocial-frontend\\redesocial\\redesocial\\pages\\cadastrousuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6040F2C-1E65-4805-9403-33F1CD33C5B4}|RedeSocial\\RedeSocial.csproj|solutionrelative:redesocial\\pages\\cadastrousuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,53 +33,66 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CadastroUsuarioLayout.razor.css",
-              "DocumentMoniker": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\Layout\\CadastroUsuarioLayout.razor.css",
-              "RelativeDocumentMoniker": "RedeSocial\\Layout\\CadastroUsuarioLayout.razor.css",
-              "ToolTip": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\Layout\\CadastroUsuarioLayout.razor.css",
-              "RelativeToolTip": "RedeSocial\\Layout\\CadastroUsuarioLayout.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-20T19:48:30.82Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.razor",
-              "DocumentMoniker": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\Pages\\Login.razor",
-              "RelativeDocumentMoniker": "RedeSocial\\Pages\\Login.razor",
-              "ToolTip": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\Pages\\Login.razor",
-              "RelativeToolTip": "RedeSocial\\Pages\\Login.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T19:47:22.524Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CadastroUsuarioLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\Layout\\CadastroUsuarioLayout.razor",
-              "RelativeDocumentMoniker": "RedeSocial\\Layout\\CadastroUsuarioLayout.razor",
-              "ToolTip": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\Layout\\CadastroUsuarioLayout.razor",
-              "RelativeToolTip": "RedeSocial\\Layout\\CadastroUsuarioLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T19:07:55.706Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CadastroUsuario.razor",
-              "DocumentMoniker": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\Pages\\CadastroUsuario.razor",
-              "RelativeDocumentMoniker": "RedeSocial\\Pages\\CadastroUsuario.razor",
-              "ToolTip": "C:\\Users\\Caio\\Documents\\dev\\mentoria\\RedeSocial\\RedeSocial\\Pages\\CadastroUsuario.razor",
-              "RelativeToolTip": "RedeSocial\\Pages\\CadastroUsuario.razor",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAAAKAAAAAAAAAA==",
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\RedeSocial-FrontEnd\\RedeSocial\\RedeSocial\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "RedeSocial\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\RedeSocial-FrontEnd\\RedeSocial\\RedeSocial\\Pages\\Home.razor",
+              "RelativeToolTip": "RedeSocial\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T19:04:08.036Z",
+              "WhenOpened": "2025-01-23T11:00:50.462Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\RedeSocial-FrontEnd\\RedeSocial\\RedeSocial\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "RedeSocial\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\RedeSocial-FrontEnd\\RedeSocial\\RedeSocial\\Pages\\Login.razor",
+              "RelativeToolTip": "RedeSocial\\Pages\\Login.razor",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:00:56.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroUsuario.razor",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\RedeSocial-FrontEnd\\RedeSocial\\RedeSocial\\Pages\\CadastroUsuario.razor",
+              "RelativeDocumentMoniker": "RedeSocial\\Pages\\CadastroUsuario.razor",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\RedeSocial-FrontEnd\\RedeSocial\\RedeSocial\\Pages\\CadastroUsuario.razor",
+              "RelativeToolTip": "RedeSocial\\Pages\\CadastroUsuario.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:01:04.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\RedeSocial-FrontEnd\\RedeSocial\\RedeSocial\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "RedeSocial\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\RedeSocial-FrontEnd\\RedeSocial\\RedeSocial\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "RedeSocial\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:01:53.478Z"
             }
           ]
         }
